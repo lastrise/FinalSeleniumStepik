@@ -1,6 +1,6 @@
 import pytest
 
-from pages.product_page import PromoProductPage
+from .pages.product_page import PromoProductPage
 
 
 @pytest.mark.product_promo
